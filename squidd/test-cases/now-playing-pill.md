@@ -14,6 +14,6 @@ Actual Result: Remaining content shifts left and appears off center during the r
 
 Status: Fail
 
-Severity (if failed): Low
+Severity: Low
 
 Bug Reference: Squidd issue #6 
